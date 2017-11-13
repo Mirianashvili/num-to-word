@@ -1,0 +1,12 @@
+C:\Users\Sandro\Desktop\num-to-word\num-to-word\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sandro\Desktop\num-to-word\num-to-word\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sandro\Desktop\num-to-word\num-to-word\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sandro\Desktop\num-to-word\num-to-word\bin\Debug\num-to-word.dll
+C:\Users\Sandro\Desktop\num-to-word\num-to-word\bin\Debug\num-to-word.pdb
+C:\Users\Sandro\Desktop\num-to-word\num-to-word\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sandro\Desktop\num-to-word\num-to-word\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sandro\Desktop\num-to-word\num-to-word\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Sandro\Desktop\num-to-word\num-to-word\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Sandro\Desktop\num-to-word\num-to-word\obj\Debug\num-to-word.csprojResolveAssemblyReference.cache
+C:\Users\Sandro\Desktop\num-to-word\num-to-word\obj\Debug\num-to-word.dll
+C:\Users\Sandro\Desktop\num-to-word\num-to-word\obj\Debug\num-to-word.pdb
